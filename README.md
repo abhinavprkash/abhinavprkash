@@ -7,7 +7,7 @@
 
 I am an **IT** student at **KIIT University**.
 
-I started programming when I was in class 8. I wish to work in a **FAANG** company in future. I work with tech which excites me. I am a **Competitive Programmer** as well as **Web Developer**. 
+I started programming when I was in class 8. I wish to work in a **FAANG** company in future. I am a **Competitive Programmer** and a **Web Developer**. 
 
 <a href="https://twitter.com/abhinaprkash">
   <img align="left" alt="Abhinav Prakash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
