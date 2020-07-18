@@ -5,7 +5,7 @@
 
 
 
-I am an **IT** student at **KIIT University**.
+I am a **Information Technology** Sophomore persuing **B. Tech** from **KIIT University**.
 
 I started programming when I was in class 8. I wish to work in a **FAANG** company in future. I am a **Competitive Programmer** and a **Web Developer**. 
 
