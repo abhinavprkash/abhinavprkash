@@ -5,9 +5,8 @@
 
 
 
-I am a **Information Technology** Sophomore persuing **B. Tech** from **KIIT University**.
+I am persuing **B. Tech** majoring in **Information Technology** from **KIIT University**.
 
-I started programming when I was in class 8. I wish to work in a **FAANG** company in future. I am a **Competitive Programmer** and a **Web Developer**. 
 
 <a href="https://twitter.com/abhinaprkash">
   <img align="left" alt="Abhinav Prakash | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
