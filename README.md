@@ -5,7 +5,7 @@
 
 
 
-I am persuing **B. Tech** majoring in **Information Technology** from **KIIT University**.
+I am pursuing **B. Tech** majoring in **Information Technology** from **KIIT University**.
 
 
 <a href="https://twitter.com/abhinaprkash">
@@ -39,7 +39,6 @@ I am persuing **B. Tech** majoring in **Information Technology** from **KIIT Uni
   
 ## **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I am currently working on Andevo;
 - 🌱 I am currently learning Web development; 
 - 🤔 I’m currently learning Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
