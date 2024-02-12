@@ -65,5 +65,3 @@ I am pursuing **B. Tech** majoring in **Information Technology** from **KIIT Uni
 
 ⭐️ From [abhinavprkash](https://github.com/abhinavprkash)
 
-## ⚡ Fun fact:
-* I am just 20.
