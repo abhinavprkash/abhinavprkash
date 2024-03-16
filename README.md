@@ -5,7 +5,7 @@
 
 
 
-I am pursuing **B. Tech** majoring in **Information Technology** from **KIIT University**.
+I am pursuing **Masters** majoring in **Computer Science** at **University of Southern California**.
 
 
 <a href="https://twitter.com/abhinaprkash">
