@@ -87,7 +87,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://leetcode.com/abhinavprkash/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhinavprkash&logo=leetcode&logoColor=yellow" width="52" height="40" alt="leetcode logo"  />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhinavprkash&logo=leetcode&logoColor=yellow" width="90" height="40" alt="leetcode logo"  />
   </a>
 </div>
 
