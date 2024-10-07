@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi 👋, I’m Abhinav Prakash, a passionate Full Stack Developer and Data Engineer 🚀, currently pursuing my Master's in Computer Science at the University of Southern California. With a flair for problem-solving and innovation, I love transforming intricate code into impactful solutions. 🌟</p>
+<p align="left">Hi 👋, I’m Abhinav Prakash, a passionate Software Engineer 🚀, currently pursuing my Master's in Computer Science at the University of Southern California. With a flair for problem-solving and innovation, I love transforming intricate code into impactful solutions. 🌟</p>
 
 ###
 
@@ -53,7 +53,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40" alt="aws logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo"  />
 </div>
 
 ###
@@ -64,11 +64,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://dpemoji.com/wp-content/uploads/2023/02/anime-dp-for-whatsapp-26.png"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavprkash&radius=12&theme=gotham&area=true&order=5&hide_border=false&hide_title=false" height="250" alt="activity-graph graph"  />
@@ -87,7 +82,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://leetcode.com/abhinavprkash/" target="_blank">
-    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhinavprkash&logo=leetcode&logoColor=yellow" width="120" height="40" alt="leetcode logo"  />
+    <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Rating&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fabhinavprkash&logo=leetcode&logoColor=yellow" width="170" height="40" alt="leetcode logo"  />
   </a>
 </div>
 
