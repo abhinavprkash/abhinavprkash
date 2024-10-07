@@ -60,7 +60,7 @@
 
 <h2 align="left">GitHub Stats!</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavprkash&show_icons=true&hide_border=true" alt="GitHub Stats" />
+<img src="https://github.com/abhinavprkash/abhinavprkash/blob/master/github-user-contribution.svg" alt="GitHub Stats" />
 
 ###
 
