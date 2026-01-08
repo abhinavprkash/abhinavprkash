@@ -1,30 +1,31 @@
-<h1 align="left">Abhinav Prakash</h1>
+## Hi 👋 I’m Abhinav Prakash
 
-###
+I’m a **Software Engineer** focused on building **scalable AI systems, LLM-powered services, and agentic workflows**. I have **graduated with a Master’s in Computer Science from the University of Southern California**, and bring hands-on industry experience across startups and large organizations.
 
-<p align="left">Hi 👋, I’m Abhinav Prakash, a passionate Software Engineer 🚀, currently pursuing my Master's in Computer Science at the University of Southern California. With a flair for problem-solving and innovation, I love transforming intricate code into impactful solutions. 🌟</p>
+---
 
-###
+## About Me
 
-<h2 align="left">About Me</h2>
+I enjoy turning complex problems into clean, production-ready systems. My work spans **backend engineering, applied AI, and intelligent automation**, with a strong bias toward impact and real-world usability.
 
-###
+- 💻 Built LLM-driven microservices and AI agents that automate workflows, improve decision accuracy, and scale across teams  
+- 🧠 Deeply interested in **Large Language Models, Agentic AI, and applied ML in production systems**  
+- 🛠️ Experienced with **Python, Java, AWS, distributed systems, and end-to-end AI pipelines**  
+- 🤝 Enjoy collaborating with engineers and founders to ship meaningful products, not just prototypes  
 
-<p align="left">As a software developer, my passion for creating robust solutions is fueled by an eagerness to learn and experiment with new technologies. Here's a bit more about me:
-<ul>
-    <li>💻 I thrive on building systems that make life easier, and love to share knowledge through tech discussions and collaborations.</li>
-    <li>🌍 I am an avid traveler and enjoy exploring new places and cultures, which broaden my perspective both personally and professionally.</li>
-    <li>🏃‍♂️ Fitness is my way to channel energy and maintain balance, often taking lessons of resilience from sports into my professional work.</li>
-</ul>
+---
 
-<strong>Talking about Personal Stuffs:</strong>
+## Beyond Work
 
-<ul>
-    <li>🎓 Currently focused on advancing my knowledge in Web Technologies, Data Science, and Autonomous Systems 🚀.</li>
-    <li>📚 Deeply interested in the latest advancements in Machine Learning and Large Language Models (LLMs) 💻.</li>
-    <li>📧 Reach me at abhinav.prakash@usc.edu for exciting collaborations or discussions 📧.</li>
-</ul>
-    <b><h3 align='center'>🤝 Always open to learning from the community and contributing to impactful projects! 🤝</h3></b>
+- 🌍 I enjoy traveling and exploring new cultures, which helps me think more globally about problems and users  
+- 🏃‍♂️ Fitness and sports keep me disciplined, resilient, and consistent, traits I carry into engineering as well  
+
+---
+
+📧 **Reach me at:** abhip13th@gmail.com  
+
+🤝 Always open to collaborations, discussions, and building impactful technology together
+
 
 ###
 
